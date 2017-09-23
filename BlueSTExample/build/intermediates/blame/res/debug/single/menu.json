@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\Paul\\Desktop\\Hackathon\\zzip\\BlueSTExample\\build\\intermediates\\res\\merged\\debug\\menu\\menu_scan.xml",
+        "source": "C:\\Users\\Paul\\Desktop\\Hackathon\\zzip\\BlueSTExample\\src\\main\\res\\menu\\menu_scan.xml"
+    },
+    {
+        "merged": "C:\\Users\\Paul\\Desktop\\Hackathon\\zzip\\BlueSTExample\\build\\intermediates\\res\\merged\\debug\\menu\\menu_demo.xml",
+        "source": "C:\\Users\\Paul\\Desktop\\Hackathon\\zzip\\BlueSTExample\\src\\main\\res\\menu\\menu_demo.xml"
+    },
+    {
+        "merged": "C:\\Users\\Paul\\Desktop\\Hackathon\\zzip\\BlueSTExample\\build\\intermediates\\res\\merged\\debug\\menu\\menu_log_feature.xml",
+        "source": "C:\\Users\\Paul\\Desktop\\Hackathon\\zzip\\BlueSTSDK\\build\\intermediates\\bundles\\default\\res\\menu\\menu_log_feature.xml"
+    }
+]

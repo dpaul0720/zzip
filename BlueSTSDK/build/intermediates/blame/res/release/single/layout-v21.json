@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\Paul\\Desktop\\Hackathon\\zzip\\BlueSTSDK\\build\\intermediates\\res\\merged\\release\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\Paul\\.android\\build-cache\\e983acf2d5e980e2fb5e02daac8efc91022a58e0\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Paul\\Desktop\\Hackathon\\zzip\\BlueSTSDK\\build\\intermediates\\res\\merged\\release\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Paul\\.android\\build-cache\\e983acf2d5e980e2fb5e02daac8efc91022a58e0\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\Paul\\Desktop\\Hackathon\\zzip\\BlueSTSDK\\build\\intermediates\\res\\merged\\release\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\Paul\\.android\\build-cache\\e983acf2d5e980e2fb5e02daac8efc91022a58e0\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\Paul\\Desktop\\Hackathon\\zzip\\BlueSTSDK\\build\\intermediates\\res\\merged\\release\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Paul\\.android\\build-cache\\e983acf2d5e980e2fb5e02daac8efc91022a58e0\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    }
+]

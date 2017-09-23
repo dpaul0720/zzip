@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\Paul\\Desktop\\Hackathon\\zzip\\BlueSTExample\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\board_generic.png",
+        "source": "C:\\Users\\Paul\\Desktop\\Hackathon\\zzip\\BlueSTExample\\src\\main\\res\\drawable-xhdpi\\board_generic.png"
+    },
+    {
+        "merged": "C:\\Users\\Paul\\Desktop\\Hackathon\\zzip\\BlueSTExample\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\board_nucleo.png",
+        "source": "C:\\Users\\Paul\\Desktop\\Hackathon\\zzip\\BlueSTExample\\src\\main\\res\\drawable-xhdpi\\board_nucleo.png"
+    },
+    {
+        "merged": "C:\\Users\\Paul\\Desktop\\Hackathon\\zzip\\BlueSTExample\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\board_steval_wesu1.png",
+        "source": "C:\\Users\\Paul\\Desktop\\Hackathon\\zzip\\BlueSTExample\\src\\main\\res\\drawable-xhdpi\\board_steval_wesu1.png"
+    }
+]

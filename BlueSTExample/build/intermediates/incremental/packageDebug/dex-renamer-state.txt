@@ -1,0 +1,7 @@
+#Sat Sep 23 00:45:39 EDT 2017
+base.0=C\:\\Users\\Paul\\Desktop\\Hackathon\\zzip\\BlueSTExample\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_2a9000e23f7332d43eb4f230f7eb905e7df1be89
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\Paul\\Desktop\\Hackathon\\zzip\\BlueSTExample\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_8455a209ac9780f2c83b45121adb6acbb98f2c21\\classes.dex
+base.1=C\:\\Users\\Paul\\Desktop\\Hackathon\\zzip\\BlueSTExample\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_8455a209ac9780f2c83b45121adb6acbb98f2c21
+file.0=C\:\\Users\\Paul\\Desktop\\Hackathon\\zzip\\BlueSTExample\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_2a9000e23f7332d43eb4f230f7eb905e7df1be89\\classes.dex
